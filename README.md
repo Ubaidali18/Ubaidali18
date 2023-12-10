@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/Ubaidali18/Ubaidali18/blob/main/github%20banner%20ubaid%20ali.png)
 <h1 align="center">Hi 👋, I'm Syed Ubaid Ali</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
